@@ -1,0 +1,15 @@
+{
+  "name": "findit",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Victus",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
